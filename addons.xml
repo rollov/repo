@@ -11,7 +11,6 @@
             <summary>StreamCloud.eu | Video Sharing at its best</summary>
             <description>Stream movies, series and documentations from StreamCloud.eu</description>
             <platform>all</platform>
-            <license>GPL V2</license>
         </extension>
     </addon>
 </addons>
