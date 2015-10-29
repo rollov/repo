@@ -1,0 +1,12 @@
+# Version 1.0.3
+
+* change view_mode to 'thumbnails' when showing video items
+
+# Version 1.0.2
+
+* Add thumbnail images to list items
+
+# Version 1.0.1
+
+* Add categories new, popular and a-z
+* add icon.png
