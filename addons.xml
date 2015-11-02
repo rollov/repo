@@ -13,7 +13,7 @@
             <platform>all</platform>
         </extension>
     </addon>
-    <addon id="plugin.video.serienstream" name="SerienStream" version="1.0.3" provider-name="rollov">
+    <addon id="plugin.video.serienstream" name="SerienStream" version="1.0.4" provider-name="rollov">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
         </requires>
